@@ -1,4 +1,4 @@
-# Ivebe/Tombola
+# Ivebe/Tombola [![Build Status](https://travis-ci.org/ivebe/tombola.svg?branch=master)](https://travis-ci.org/ivebe/tombola)
 Tombola is popular gambling game which consist of tables with 6 tickets. In each table there is 90 numbers, and each ticket contains 15 numbers. This package is PHP implementation with help of `harrysethi/Tambola-Ticket-Generator` explanation and java implementation.
 
 #### Rules
