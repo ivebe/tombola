@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=5.5"
+    },
     "autoload": {
         "psr-4": {
             "Ivebe\\Tombola\\": "src/"
