@@ -1,0 +1,22 @@
+{
+    "name": "ivebe/tombola",
+    "description": "Ticket generator for tombola gambling game",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danijel Petrovic",
+            "email": "dan@ivebe.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ivebe\\Tombola\\": "src/"
+        },
+        "psr-0": {
+            "Ivebe\\Tombola\\": "src/"
+        }
+    }
+}
