@@ -17,6 +17,9 @@ namespace Ivebe\Tombola;
  */
 class Table
 {
+    /**
+     * @var Ticket[]
+     */
     private $tickets;
 
     public function __construct()
